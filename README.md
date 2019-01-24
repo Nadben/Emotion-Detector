@@ -80,7 +80,7 @@ Architecture | Number of epochs| Training accuracy | Validation acc (%) | Valida
 SimpNetV2    | 40              | 83.3 %           | 54 %               | 1.187
 
 
-The results seems to be very poor but when I tested it in real time with the camera, it was giving fairly good results. It could still be improved as I plan on the near future to train the CNN on the other half of the dataset. It has some difficulty in classifying the mood of someone who wears glasses. It could be because of the reflection on the glasses and/or the poor light condition in the room. 
+The results seems to be very poor but when I tested it in real time with the camera, it was giving fairly good results. It could still be improved as I plan on the near future to train the network on antoher 25k images on 40 epochs. It has some difficulty in classifying the mood of someone who wears glasses. It could be because of the reflection on the glasses and/or the poor light condition in the room. 
 
 All in all it was a cool little project i did for fun. 
 
