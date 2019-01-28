@@ -77,8 +77,8 @@ The Network was trained using a GTX 1070 TI for only 40 epochs, here are the res
 
 Architecture | Number of epochs| Training accuracy | Train loss | Validation acc (%) | Validation loss | Number of images trained on
 | :---:      | :---:           |:---:      |:---:       |:---:               |:---:   | :---: 
-SimpNetV2    | 40              | 83.32 %           | 1.171     | 54 %           | 1.187 | 23018
-SimpNetV2    | 40              | 85.13 %           | 1.171     | 59.68 %           | 1.257 | 46036
+SimpNetV2    | 40              | 83.32 %           | 0.517     | 54 %           | 1.187 | 23018
+SimpNetV2    | 40              | 85.13 %           | 0.416     | 59.68 %           | 1.257 | 46036
 
 The results seems to be very poor but when I tested it in real time with the camera, it was giving fairly good results. It could still be improved as I plan on the near future to train the network on antoher 25k images on 40 epochs. It has some difficulty in classifying the mood of someone who wears glasses. It could be because of the reflection on the glasses and/or the poor light condition in the room. 
 
