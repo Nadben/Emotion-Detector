@@ -12,10 +12,10 @@ https://github.com/Coderx7/SimpNet
 ### Results
 The Network was trained using a GTX 1070 TI for only 40 epochs, here are the results
 
-Architecture | Number of epochs| Training accuracy | Train loss | Validation acc (%) | Validation loss | Number of images trained on
+Architecture | Number of epochs| Training accuracy (%)| Train loss | Validation acc (%) | Validation loss | Number of images trained on
 | :---:      | :---:           |:---:      |:---:       |:---:               |:---:   | :---: 
-SimpNetV2    | 40              | 83.32 %           | 0.517     | 54 %           | 1.187 | 23018
-SimpNetV2    | 40              | 85.13 %           | 0.416     | 59.68 %           | 1.257 | 46036
+SimpNetV2    | 40              | 83.32            | 0.517     | 54            | 1.187 | 23018
+SimpNetV2    | 40              | 85.13            | 0.416     | 59.68            | 1.257 | 46036
 
 
 
